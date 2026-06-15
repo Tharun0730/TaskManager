@@ -16,28 +16,6 @@ node -v
 npm -v
 ```
 
----
-
-## Project Structure
-
-```text
-task-manager/
-│
-├── backend/
-│   ├── server.js
-│   ├── package.json
-│   └── ...
-│
-├── frontend/
-│   ├── src/
-│   ├── package.json
-│   └── ...
-│
-└── README.md
-```
-
----
-
 ## Backend Setup
 
 ### 1. Navigate to the backend folder
