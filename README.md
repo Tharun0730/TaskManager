@@ -154,3 +154,4 @@ npm run lint     # Run ESLint
 * Ensure the backend server is running before using the frontend application.
 
 "# Task_Manager" 
+"# TaskManager" 
